@@ -12,7 +12,7 @@
 ### -The goal of me making this project is so that there is no soil in India going to waste 📈.
 
 ## 💻💻 Models
-### The models i used are in the following scikit library
+### The models I used are in the following scikit library
 ### Logistic Regression: from sklearn.linear_model import LogisticRegression
 ### K Nearest Neighbours: from sklearn.neighbors import KNeighborsClassifier
 ### Gaussian Naive Bayes: from sklearn.naive_bayes import GaussianNB
@@ -20,3 +20,6 @@
 ### AdaBoost: from sklearn.ensemble import AdaBoostClassifier
 ### XGBoost: from sklearn.model_selection import GridSearchCV
 ### Random Forests with Out-of-Bag: from sklearn.ensemble import RandomForestClassifier
+
+## 🎆🎆 Result
+### At the end after numerous nights of no sleep of hyperparameter tuning the final model finalized with a Random forest model with an out of bag method which had a 100% accuracy on training set and a promising accuracy of 99.54% on the testing set😄😄. 

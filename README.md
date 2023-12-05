@@ -24,7 +24,7 @@
 ### AdaBoost: 19.5%
 ### from sklearn.ensemble import AdaBoostClassifier
 ### XGBoost: 99.31%
-### from sklearn.model_selection import GridSearchCV
+### from xgboost import XGBClassifier
 ### Random Forests with Out-of-Bag:  99.54%
 ### from sklearn.ensemble import RandomForestClassifier
 

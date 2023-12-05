@@ -8,7 +8,7 @@
 ### - You can download the data set through this link [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset]
 ### - Since it is not a very large data set with extensive examples I used an 80% train and 20% testing split.
 
-## 🎯🎯 Goal!!!
+## 🎯🎯 Goal !!!
 ### -The goal of making this project is so that there is no soil in India going to waste 📈.
 
 ## 💻💻 Models

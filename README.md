@@ -1,7 +1,7 @@
 # 🌱 Cultivating optimal crop yields with Machine Learning! ☀️
 
 ## 📝📝 Description
-### - This a a machine learning model that I made which provides the best suitable crop to grow based on many factors such as potassium, nitrogen, pH levels, etc 
+### - This is a machine learning model that I made which provides the best suitable crop to grow based on many factors such as potassium, nitrogen, pH levels, etc 
 ### - Employed various machine learning algorithms, including Logistic Regression, K-Nearest Neighbors, Random Forest, etc to predict the most suitable crop for given environmental factors
 
 ## ⌛⌛ Dataset

@@ -12,7 +12,7 @@
 ### -The goal of making this project is so that there is no soil in India going to waste 📈.
 
 ## 💻💻 Models
-### The accuracies on the testing set of the models I used are in the following scikit library
+### The accuracies on the testing set of the models I used are the following
 ### Logistic Regression: 94.31% 
 ### from sklearn.linear_model import LogisticRegression
 ### K Nearest Neighbours: 97.72%
